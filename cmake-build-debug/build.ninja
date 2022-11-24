@@ -192,6 +192,68 @@ build kol_5: C_EXECUTABLE_LINKER__kol_5_Debug CMakeFiles/kol_5.dir/kol_5.c.o
   TARGET_FILE = kol_5
   TARGET_PDB = kol_5.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_6
+
+
+#############################################
+# Order-only phony target for kol_6
+
+build cmake_object_order_depends_target_kol_6: phony || CMakeFiles/kol_6.dir
+
+build CMakeFiles/kol_6.dir/kol_6.c.o: C_COMPILER__kol_6_Debug /Users/eagleitsolutions/CLionProjects/kolokviumska/kol_6.c || cmake_object_order_depends_target_kol_6
+  DEP_FILE = CMakeFiles/kol_6.dir/kol_6.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/kol_6.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_6.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_6
+
+
+#############################################
+# Link the executable kol_6
+
+build kol_6: C_EXECUTABLE_LINKER__kol_6_Debug CMakeFiles/kol_6.dir/kol_6.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/kol_6.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_6
+  TARGET_PDB = kol_6.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_7
+
+
+#############################################
+# Order-only phony target for kol_7
+
+build cmake_object_order_depends_target_kol_7: phony || CMakeFiles/kol_7.dir
+
+build CMakeFiles/kol_7.dir/kol_7.c.o: C_COMPILER__kol_7_Debug /Users/eagleitsolutions/CLionProjects/kolokviumska/kol_7.c || cmake_object_order_depends_target_kol_7
+  DEP_FILE = CMakeFiles/kol_7.dir/kol_7.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/kol_7.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_7
+
+
+#############################################
+# Link the executable kol_7
+
+build kol_7: C_EXECUTABLE_LINKER__kol_7_Debug CMakeFiles/kol_7.dir/kol_7.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/kol_7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_7
+  TARGET_PDB = kol_7.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -226,7 +288,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug
 
-build all: phony kol_1 kol_2 kol_3 kol_4 kol_5
+build all: phony kol_1 kol_2 kol_3 kol_4 kol_5 kol_6 kol_7
 
 # =============================================================================
 # Built-in targets
