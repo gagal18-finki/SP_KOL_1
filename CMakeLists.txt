@@ -16,4 +16,6 @@ add_executable(kol_10 kol_10.c)
 add_executable(kol_11 kol_11.c)
 add_executable(kol_12 kol_12.c)
 add_executable(kol_14 kol_14.c)
+add_executable(kol_1_1 kol_1_1.c)
+add_executable(pomosni_char_func pomosni_char_func.c)
 

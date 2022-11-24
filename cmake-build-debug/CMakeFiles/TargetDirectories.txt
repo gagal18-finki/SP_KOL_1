@@ -11,5 +11,7 @@
 /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_11.dir
 /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_12.dir
 /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_14.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_1_1.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/pomosni_char_func.dir
 /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/rebuild_cache.dir

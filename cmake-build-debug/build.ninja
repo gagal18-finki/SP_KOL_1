@@ -440,6 +440,68 @@ build kol_14: C_EXECUTABLE_LINKER__kol_14_Debug CMakeFiles/kol_14.dir/kol_14.c.o
   TARGET_FILE = kol_14
   TARGET_PDB = kol_14.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_1_1
+
+
+#############################################
+# Order-only phony target for kol_1_1
+
+build cmake_object_order_depends_target_kol_1_1: phony || CMakeFiles/kol_1_1.dir
+
+build CMakeFiles/kol_1_1.dir/kol_1_1.c.o: C_COMPILER__kol_1_1_Debug /Users/eagleitsolutions/CLionProjects/kolokviumska/kol_1_1.c || cmake_object_order_depends_target_kol_1_1
+  DEP_FILE = CMakeFiles/kol_1_1.dir/kol_1_1.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/kol_1_1.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_1_1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_1_1
+
+
+#############################################
+# Link the executable kol_1_1
+
+build kol_1_1: C_EXECUTABLE_LINKER__kol_1_1_Debug CMakeFiles/kol_1_1.dir/kol_1_1.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/kol_1_1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_1_1
+  TARGET_PDB = kol_1_1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target pomosni_char_func
+
+
+#############################################
+# Order-only phony target for pomosni_char_func
+
+build cmake_object_order_depends_target_pomosni_char_func: phony || CMakeFiles/pomosni_char_func.dir
+
+build CMakeFiles/pomosni_char_func.dir/pomosni_char_func.c.o: C_COMPILER__pomosni_char_func_Debug /Users/eagleitsolutions/CLionProjects/kolokviumska/pomosni_char_func.c || cmake_object_order_depends_target_pomosni_char_func
+  DEP_FILE = CMakeFiles/pomosni_char_func.dir/pomosni_char_func.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/pomosni_char_func.dir
+  OBJECT_FILE_DIR = CMakeFiles/pomosni_char_func.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target pomosni_char_func
+
+
+#############################################
+# Link the executable pomosni_char_func
+
+build pomosni_char_func: C_EXECUTABLE_LINKER__pomosni_char_func_Debug CMakeFiles/pomosni_char_func.dir/pomosni_char_func.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/pomosni_char_func.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = pomosni_char_func
+  TARGET_PDB = pomosni_char_func.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -474,7 +536,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug
 
-build all: phony kol_1 kol_2 kol_3 kol_4 kol_5 kol_6 kol_7 kol_8 kol_9 kol_10 kol_11 kol_12 kol_14
+build all: phony kol_1 kol_2 kol_3 kol_4 kol_5 kol_6 kol_7 kol_8 kol_9 kol_10 kol_11 kol_12 kol_14 kol_1_1 pomosni_char_func
 
 # =============================================================================
 # Built-in targets
