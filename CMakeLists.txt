@@ -12,4 +12,5 @@ add_executable(kol_6 kol_6.c)
 add_executable(kol_7 kol_7.c)
 add_executable(kol_8 kol_8.c)
 add_executable(kol_9 kol_9.c)
+add_executable(kol_10 kol_10.c)
 
