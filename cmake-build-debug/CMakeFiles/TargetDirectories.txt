@@ -1,0 +1,7 @@
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_1.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_2.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_3.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_4.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/kol_5.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug/CMakeFiles/rebuild_cache.dir

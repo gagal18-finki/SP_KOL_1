@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kolokviumska",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_1-Debug-383deb79dd8f79da6f10.json",
+					"name" : "kol_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_2-Debug-52f5117c6034ab22ffb3.json",
+					"name" : "kol_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_3-Debug-566fefcc299ac6a5500b.json",
+					"name" : "kol_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_4-Debug-bbe577afe105faa269a1.json",
+					"name" : "kol_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_5-Debug-b5ea8af254c98fd74e5d.json",
+					"name" : "kol_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug",
+		"source" : "/Users/eagleitsolutions/CLionProjects/kolokviumska"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
