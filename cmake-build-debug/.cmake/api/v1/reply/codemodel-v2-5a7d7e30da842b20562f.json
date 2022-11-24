@@ -21,7 +21,9 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8
 					]
 				}
 			],
@@ -42,7 +44,9 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8
 					]
 				}
 			],
@@ -95,6 +99,20 @@
 					"id" : "kol_7::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-kol_7-Debug-5493c337098f1b03cb7e.json",
 					"name" : "kol_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_8-Debug-eb1b347041b58764b356.json",
+					"name" : "kol_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kol_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kol_9-Debug-e1abc0139ea4a6ffa3af.json",
+					"name" : "kol_9",
 					"projectIndex" : 0
 				}
 			]
