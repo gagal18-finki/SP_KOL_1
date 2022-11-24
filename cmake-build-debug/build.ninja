@@ -378,6 +378,37 @@ build kol_11: C_EXECUTABLE_LINKER__kol_11_Debug CMakeFiles/kol_11.dir/kol_11.c.o
   TARGET_FILE = kol_11
   TARGET_PDB = kol_11.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target kol_12
+
+
+#############################################
+# Order-only phony target for kol_12
+
+build cmake_object_order_depends_target_kol_12: phony || CMakeFiles/kol_12.dir
+
+build CMakeFiles/kol_12.dir/kol_12.c.o: C_COMPILER__kol_12_Debug /Users/eagleitsolutions/CLionProjects/kolokviumska/kol_12.c || cmake_object_order_depends_target_kol_12
+  DEP_FILE = CMakeFiles/kol_12.dir/kol_12.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu99
+  OBJECT_DIR = CMakeFiles/kol_12.dir
+  OBJECT_FILE_DIR = CMakeFiles/kol_12.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kol_12
+
+
+#############################################
+# Link the executable kol_12
+
+build kol_12: C_EXECUTABLE_LINKER__kol_12_Debug CMakeFiles/kol_12.dir/kol_12.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
+  OBJECT_DIR = CMakeFiles/kol_12.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = kol_12
+  TARGET_PDB = kol_12.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -412,7 +443,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/eagleitsolutions/CLionProjects/kolokviumska/cmake-build-debug
 
-build all: phony kol_1 kol_2 kol_3 kol_4 kol_5 kol_6 kol_7 kol_8 kol_9 kol_10 kol_11
+build all: phony kol_1 kol_2 kol_3 kol_4 kol_5 kol_6 kol_7 kol_8 kol_9 kol_10 kol_11 kol_12
 
 # =============================================================================
 # Built-in targets
